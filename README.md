@@ -1,4 +1,4 @@
-# State Machine for Arithmetic Operations 
+# State Machine for Calculator
 
 This README provides detailed step-by-step instructions on setting up a state machine for arithmetic operations using AWS Step Functions and AWS Lambda. The state machine will handle four arithmetic operations: addition, subtraction, multiplication, and division.
 
